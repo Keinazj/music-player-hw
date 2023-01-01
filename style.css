@@ -9,3 +9,27 @@ html{
     height: 100%;
  
 }
+
+body{ 
+    margin-top: 200px;
+    margin-left: 600px;
+    
+    
+}
+.bigpart{
+
+    height: 400px;
+    width: 270px;
+    background-image: linear-gradient( rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674));
+   border-radius: 20px;
+   box-shadow: 2px 2px 13px 2px  rgb(50, 51, 52);
+   
+}
+
+.bigpart:hover{
+   background-image: linear-gradient(rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792));
+   
+   transition: 0.4s;
+    
+    
+}
