@@ -33,3 +33,12 @@ body{
     
     
 }
+.music_player{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px 4px gray;
+    font-weight: bolder; 
+   
+}
