@@ -122,3 +122,46 @@ body{
     border-color: #bebebe;
        
 }
+ul{
+   
+    padding-left: 12.5%;
+    margin-top: 3%;
+
+}
+
+.song-slider{
+    width: 100%;
+    position: relative;
+}
+
+.seek-bar{
+    
+    width: 90%;
+    border-radius: 10px;
+    margin-left: 5%;
+    
+    cursor: pointer;
+}
+
+.seek-bar::-webkit-slider-thumb{
+   
+    width: 1px;
+    height: 20px;
+    
+}
+
+.current-time{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    color: aliceblue;
+    padding-left: 7%;
+    font-weight: bold;
+}
+
+.song-duration{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    color: aliceblue;
+    padding-left: 60%;
+    font-weight: bold;
+}
