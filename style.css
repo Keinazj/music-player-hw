@@ -112,3 +112,13 @@ body{
  
            
 }
+.back:hover{
+    border-color: #bebebe;
+}
+.for:hover{
+    border-color: #bebebe;
+}
+.play:hover{
+    border-color: #bebebe;
+       
+}
