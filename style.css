@@ -1,4 +1,11 @@
 *{
     margin: 0px;
 }
+html{
 
+    background: linear-gradient(#0046ae, #9198e5);
+
+
+    height: 100%;
+ 
+}
