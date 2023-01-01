@@ -86,3 +86,29 @@ body{
     color: #2e2e2e;
 
 }
+
+.play{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50% ;
+    margin-right: 30px;
+
+}
+.back{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-right: 30px;
+   
+  
+}
+.for{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50% ;
+ 
+           
+}
